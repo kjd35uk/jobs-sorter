@@ -1,0 +1,17 @@
+{
+  "name": "OTB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "OTB.js",
+  "scripts": {
+    "test": "mocha ./*.spec.js",
+    "lint": "eslint ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
