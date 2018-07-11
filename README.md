@@ -1,5 +1,5 @@
 **Jobs Sorter**
-Jobs Sorter is a function that takes a jobs list and lets you know which order the jobs should be completed, taking into account whether 
+Jobs Sorter is a function that takes a jobs list and lets you know which order the jobs should be completed, taking into account whether a task depends on other tasks having already been completed.
 
 **Getting Started**
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
